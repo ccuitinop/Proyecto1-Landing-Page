@@ -281,7 +281,7 @@ input[type="submit"]:hover{
     }
       
     /* Section */
-    
+
     .website{
         flex-direction: column-reverse;
         justify-content: center;
@@ -344,11 +344,11 @@ input[type="submit"]:hover{
     }
 }
 .clase1{
-    color:#fff
+    color: #ffb006;
 }
 .clase{
-    color: #ffb006
+    color: #ffb006;
 }
 .clase3{
-    color:#619ec7
+    color:#619ec7;
 }
