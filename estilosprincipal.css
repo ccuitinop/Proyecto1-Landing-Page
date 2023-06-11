@@ -266,6 +266,8 @@ input[type="submit"]:hover{
         font-size: 50px;
     }
 
+    /* Estilos generales */
+
     .titulo{
         font-size: 35px;
     }
@@ -278,6 +280,8 @@ input[type="submit"]:hover{
         text-align: center;
     }
       
+    /* Section */
+    
     .website{
         flex-direction: column-reverse;
         justify-content: center;
@@ -292,15 +296,21 @@ input[type="submit"]:hover{
         width: 100%;
     }
      
+    /* Cards */
+
     .card{
         width: 90%;
         margin-bottom: 20px;
     }
      
+    /* Galeria */
+
     .galeria-cont>img{
         width: 48%;
     }
     
+    /* Last */
+
     .last-section img{
         width: 98%;
     }
@@ -338,4 +348,7 @@ input[type="submit"]:hover{
 }
 .clase{
     color: #ffb006
+}
+.clase3{
+    color:#619ec7
 }
